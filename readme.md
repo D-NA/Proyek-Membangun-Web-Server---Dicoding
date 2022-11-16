@@ -1,2 +1,7 @@
-1. Meluncurkan Amazon EC2 Instance
-Untuk membuat EC2 instance, silakan masuk ke AWS Management Console
+1. Install Nginx
+Untuk menginstal dan mengkonfigurasi Nginx, silakan gunakan perintah di bawah ini:
+
+sudo apt-get update
+sudo apt-get install nginx
+
+
